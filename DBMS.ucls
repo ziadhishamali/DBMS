@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <interface id="1" language="java" name="eg.edu.alexu.csd.oop.db.Command" project="DataBase" 
+    file="/DataBase/src/eg/edu/alexu/csd/oop/db/Command.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-446" y="62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="2" language="java" name="eg.edu.alexu.csd.oop.db.Database" project="DataBase" 
+    file="/DataBase/src/eg/edu/alexu/csd/oop/db/Database.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1419" y="60"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="3" language="java" name="eg.edu.alexu.csd.oop.db.cs61.IDatabase" project="DataBase" 
+    file="/DataBase/src/eg/edu/alexu/csd/oop/db/cs61/IDatabase.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1064" y="378"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="eg.edu.alexu.csd.oop.db.cs61.MainUI" project="DataBase" 
+    file="/DataBase/src/eg/edu/alexu/csd/oop/db/cs61/MainUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1590" y="389"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="eg.edu.alexu.csd.oop.db.cs61.Proxy" project="DataBase" 
+    file="/DataBase/src/eg/edu/alexu/csd/oop/db/cs61/Proxy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1794" y="386"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="eg.edu.alexu.csd.oop.db.cs61.Select" project="DataBase" 
+    file="/DataBase/src/eg/edu/alexu/csd/oop/db/cs61/Select.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-1584" y="761"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="eg.edu.alexu.csd.oop.db.cs61.DropDB" project="DataBase" 
+    file="/DataBase/src/eg/edu/alexu/csd/oop/db/cs61/DropDB.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-1258" y="707"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="eg.edu.alexu.csd.oop.db.cs61.CreateTable" project="DataBase" 
+    file="/DataBase/src/eg/edu/alexu/csd/oop/db/cs61/CreateTable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-967" y="761"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="eg.edu.alexu.csd.oop.db.cs61.Delete" project="DataBase" 
+    file="/DataBase/src/eg/edu/alexu/csd/oop/db/cs61/Delete.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-676" y="743"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="eg.edu.alexu.csd.oop.db.cs61.DropTable" project="DataBase" 
+    file="/DataBase/src/eg/edu/alexu/csd/oop/db/cs61/DropTable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-473" y="707"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="eg.edu.alexu.csd.oop.db.cs61.CreateDB" project="DataBase" 
+    file="/DataBase/src/eg/edu/alexu/csd/oop/db/cs61/CreateDB.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-270" y="707"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="eg.edu.alexu.csd.oop.db.cs61.Insert" project="DataBase" 
+    file="/DataBase/src/eg/edu/alexu/csd/oop/db/cs61/Insert.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="81" y="761"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="eg.edu.alexu.csd.oop.db.cs61.Update" project="DataBase" 
+    file="/DataBase/src/eg/edu/alexu/csd/oop/db/cs61/Update.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="605" y="761"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="eg.edu.alexu.csd.oop.db.cs61.CreateTable.NameTypeElementMaker" project="DataBase" 
+    file="/DataBase/src/eg/edu/alexu/csd/oop/db/cs61/CreateTable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-1004" y="1028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="eg.edu.alexu.csd.oop.db.cs61.Read" project="DataBase" 
+    file="/DataBase/src/eg/edu/alexu/csd/oop/db/cs61/Read.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="684" y="1288"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="eg.edu.alexu.csd.oop.db.cs61.Validation" project="DataBase" 
+    file="/DataBase/src/eg/edu/alexu/csd/oop/db/cs61/Validation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1434" y="810"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="eg.edu.alexu.csd.oop.db.cs61.Cache_Pool" project="DataBase" 
+    file="/DataBase/src/eg/edu/alexu/csd/oop/db/cs61/Cache_Pool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1719" y="1351"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="eg.edu.alexu.csd.oop.db.cs61.ObjectBuilder" project="DataBase" 
+    file="/DataBase/src/eg/edu/alexu/csd/oop/db/cs61/ObjectBuilder.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1342" y="1708"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="eg.edu.alexu.csd.oop.db.cs61.Table" project="DataBase" 
+    file="/DataBase/src/eg/edu/alexu/csd/oop/db/cs61/Table.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-877" y="1982"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="20">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="21" name="table"/>      
+      <multiplicity id="22" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="23">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="24" name="read"/>      
+      <multiplicity id="25" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="26">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <realization id="27">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <realization id="28">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <association id="29">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="30" name="read"/>      
+      <multiplicity id="31" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="32">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="14"/>  
+  </nesting>  
+  <association id="33">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="34" name="read"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="37" name="cache"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="40" name="table"/>      
+      <multiplicity id="41" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="42">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="43" name="database"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="45">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <association id="46">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="47" name="table"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="49">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <realization id="50">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <association id="51">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="52" name="read"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="54">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <association id="55">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="56" name="builder"/>      
+      <multiplicity id="57" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="59" name="pool"/>      
+      <multiplicity id="60" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="61">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <association id="62">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="63" name="table"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="65">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="66" name="read"/>      
+      <multiplicity id="67" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="68">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="69" name="table"/>      
+      <multiplicity id="70" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="71">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="72" name="verify"/>      
+      <multiplicity id="73" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="74">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="75" name="pool"/>      
+      <multiplicity id="76" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="77">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="78" name="proxy"/>      
+      <multiplicity id="79" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="80">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="81" name="objectCommand"/>      
+      <multiplicity id="82" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="83">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="84" name="verify"/>      
+      <multiplicity id="85" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="86">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
